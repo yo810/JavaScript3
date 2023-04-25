@@ -1,0 +1,1 @@
+・JavaScript 関数
